@@ -1,0 +1,9 @@
+
+  >Input
+    -Siapkan Angka
+  >Proses
+    -Jika Angka Dibagi 2 Sisanya 0 Maka angka Tersebut Genap
+     begitupun sebaliknya jika angka dibagi 2 sisanya bukan 0 maka angka tersebut ganjil
+  >Output
+    -Hasil Angka
+   
