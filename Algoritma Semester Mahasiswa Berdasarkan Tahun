@@ -1,0 +1,9 @@
+>input
+ -tentukan tahun ajaran
+>proses
+ -hitung semester berdasarkan tahun ajaran
+ -hitung selisih tahun
+ -hitung semester yang sudah berlalu
+ -tahun masuk dikurang tahun ajaran
+>output
+ -hasil
